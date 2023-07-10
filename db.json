@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "title": "Cien años de soledad",
+      "id": 1
+    },
+    {
+      "title": "Pedro Paramo",
+      "id": 2
+    }
+  ]
+}
